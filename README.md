@@ -15,8 +15,6 @@
 ## 기술 스택
 
 | Python | Django |  Mysql  |
-| :--------: | :--------: | :------: | :-----: |
-|   ![python]    |   ![django]    | ![python] |
 
 <br>
 
